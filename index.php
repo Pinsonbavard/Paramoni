@@ -1,5 +1,5 @@
 <?php
-
+exit("Testing site");
 // INPUT
 $location = $_GET['location'] ?? "Agungi, Lagos";
 $payout   = $_GET['payout'] ?? 100000;
