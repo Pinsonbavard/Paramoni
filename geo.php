@@ -1,6 +1,5 @@
 <?php
 
-echo "Testing geo.php";
 function getCoordinates($location) {
 
     $url = "https://nominatim.openstreetmap.org/search?q=" 
